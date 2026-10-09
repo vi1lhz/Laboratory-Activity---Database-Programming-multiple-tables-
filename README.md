@@ -1,1 +1,0 @@
-# Laboratory-Activity---Database-Programming-multiple-tables-
